@@ -63,3 +63,39 @@ footer {
     text-align: center;
     padding: 15px;
 }
+
+.compartilhar {
+    background-color: #FFF3E0;
+    padding: 40px;
+    text-align: center;
+}
+
+.botoes-compartilhar {
+    margin-top: 20px;
+}
+
+.btn-social {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: bold;
+}
+
+.facebook {
+    background-color: #3b5998;
+}
+
+.twitter {
+    background-color: #1da1f2;
+}
+
+.whatsapp {
+    background-color: #25d366;
+}
+
+.btn-social:hover {
+    opacity: 0.8;
+}

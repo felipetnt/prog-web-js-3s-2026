@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #FFF8E1;
+}
+
+header {
+    background-color: #6D4C41;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    color: #FFE0B2;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+section {
+    padding: 50px;
+}
+
+.container-sobre {
+    display: flex;
+    align-items: center;
+    text-align: justify;
+    gap: 24px;
+}
+
+.container-receitas {
+    display: flex;
+    gap: 24px;
+}
+
+img {
+    display: block;
+    border-radius: 12px;
+    margin: 20px auto;
+    max-width: 500px;
+    width: 100%;
+}
+
+h2 {
+    color: #5D4037;
+}
+
+h3 {
+    color: #5D4037;
+}
+
+ul, ol {
+    margin-left: 20px;
+}
+
+footer {
+    background-color: #6D4C41;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
